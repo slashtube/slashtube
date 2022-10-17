@@ -1,4 +1,3 @@
-### Hi there 👋
 [![@slashtube's Holopin board](https://holopin.me/slashtube)](https://holopin.io/@slashtube)
 
 <!--
