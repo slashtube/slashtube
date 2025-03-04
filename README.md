@@ -1,9 +1,4 @@
 Hello!
-### About me
-- 🤔 I’m looking for help with
-    - My life
-- 💬 DO NOT Ask me about
-    - Python (I will obliterate your house)
 
 ### Pins
 [![@slashtube's Holopin board](https://holopin.me/slashtube)](https://holopin.io/@slashtube)
